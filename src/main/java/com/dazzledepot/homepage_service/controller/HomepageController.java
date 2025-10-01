@@ -39,4 +39,5 @@ public class HomepageController {
             return List.of(); // Return empty list on error
         }
     }
+
 }
